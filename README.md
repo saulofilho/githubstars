@@ -1,7 +1,7 @@
 # :star: GitHub Stars
 
 Retrieve starred repositories of a user's GitHub profile.
-https://world.openfoodfacts.org/
+https://githubstarsapp.vercel.app/
 
 ##  Technologies
 
